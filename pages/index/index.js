@@ -8,7 +8,7 @@ Page({
     // 导航数据
     navList: [],
     //轮播图数据
-    swiperList
+    swiperList : []
   },
   activeNav(e){
       this.setData({
